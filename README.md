@@ -1,7 +1,7 @@
 # borough-battle
-In this game, the user plays against the computer in a turn-based text game in an attempt to take over the five boroughs: LEAF VILLAGE, SAND VILLAGE, CLOUD VILLAGE, STONE, VILLAGE, MIST VILLAGE
+In this game, the user plays against the computer in a turn-based text game in an attempt to take over the five boroughs: Leaf Village, Sand Village, Cloud Village, Stone Village, and Mist Village
 
-GAME PLAY:
+GAMEPLAY:
 
 The game is divided into three parts: the placement, the building, and the final battle.
 
@@ -13,4 +13,4 @@ Once the number of turns are over, the Final Battle takes place. In this round, 
 
 The scores are tallied and the player with the most points wins. If the score is tied, then the player with the most boroughs wins. If that is also a tie, then the computer wins
 
-Have fun playing this game :)
+Have fun playing my game :)
